@@ -1,3 +1,1 @@
-On October 25, 2014, two hundred fifty high school students spent twenty-four hours of their weekend at SoCal’s first high school hackathon, TeenHacks. MakeSchool attended the event as mentors and sponsors.
-
-MakeSchool’s “Build Flappy Bird in One Hour” workshop attracted over seventy students. The room was so full that the wifi network crashed, so we ended up splitting into two separate sessions, each filled with students eager to learn.
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/217593991&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
