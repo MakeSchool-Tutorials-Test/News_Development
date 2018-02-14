@@ -16,9 +16,9 @@ Body text. __Bold.__ _Italic._ __*Bold and Italic.*__ [Link]() consectetur adipi
 Numbered List
 
 1. something
-  * something eslse
-  * whoo
-  * intereting
+  1. something eslse
+  2. whoo
+  3. intereting
 2. nothing
 3. everything
 4. all things
