@@ -2,7 +2,7 @@
 title: style guide
 custom_slug: style-guide
 category: news
-listed: true
+listed: false
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2018-02-13 00:00:00.000000000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
