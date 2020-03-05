@@ -1,7 +1,7 @@
 ---
 title: Royce is the best
 custom_slug: royce-is-the-best
-category: product_college
+category: news
 listed: true
 release_date: !ruby/object:ActiveSupport::TimeWithZone
   utc: &1 2020-03-03 00:00:00.000000000 Z
